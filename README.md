@@ -73,7 +73,7 @@ The primary goal of this project is to investigate the influence of climate chan
   - **Largest:** 2011 and 2012 have the greatest number of records at about 10000.
   - **Smallest:** 2007, 2018, and 2021 have the lowest number of records at <1000.
 
-<img src="images/image19.png" width=400><img src="images/image20.png" width=400>
+<img src="images/image19.png" width=400><img src="images/image20.png" width=400 height=285>
 
 
 ## Reflections
