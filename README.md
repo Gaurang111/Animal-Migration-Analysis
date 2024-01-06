@@ -54,7 +54,7 @@ The primary goal of this project is to investigate the influence of climate chan
 - **Impact:** Lemming(Main Food Source of Arctic Foxes) populations affected by climate change, impacting the Arctic fox's food source.
 - **Data:** Bar graph of lemming nests recorded in Bylot Island (2007-2019).
 
-<img src="images/image15.png" width=400>
+<img src="images/image15.png" width=400><img src="images/image16.png" width=400>
 
 
 ## Migration Visualization
