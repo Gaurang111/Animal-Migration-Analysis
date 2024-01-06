@@ -95,7 +95,7 @@ The primary goal of this project is to investigate the influence of climate chan
 
 - Bylot Island during Winter (March 2012) vs Bylot Island during Summer (July 2012)
   
-<img src="images/image25.jpeg" width=400><img src="images/image24.jpeg" width=400>
+<img src="images/image25.png" width=400><img src="images/image24.png" width=400>
   - During the summer months, Arctic foxes collect a surplus of food and carry it back to their dens to bury and store.*
   - During winter, Arctic foxes do sometimes move to other regions when and if the population of their prey reduces or fluctuates in the winter.
 ---
