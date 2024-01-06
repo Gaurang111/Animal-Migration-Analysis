@@ -61,10 +61,20 @@ The primary goal of this project is to investigate the influence of climate chan
 
 ## Migration Visualization
 
-- **Data Source:** Argos tracking from movebank.org (2007-2021).
+- **Data Source:** Argos tracking from movebank.org (2007-2021). [Link to Movebank Study](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study942774711)
 - **Details:** 170 Arctic foxes, 64489 records.
 - **Cleaning:** Extracted relevant columns, converted timestamp, added seasonal classification.
-- **Distribution:** Visualized month-wise and year-wise fox movement records.
+
+### Data Distribution
+- **Month-Wise:** 
+  - **Largest:** August has the greatest number of records at about 7000.
+  - **Smallest:** May has the lowest number of records at about 3300.
+- **Year-Wise:** 
+  - **Largest:** 2011 and 2012 have the greatest number of records at about 10000.
+  - **Smallest:** 2007, 2018, and 2021 have the lowest number of records at <1000.
+
+<img src="images/image19.png" width=400><img src="images/image20.png" width=400>
+
 
 ## Reflections
 
