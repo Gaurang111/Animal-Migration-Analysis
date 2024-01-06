@@ -75,7 +75,7 @@ The primary goal of this project is to investigate the influence of climate chan
 
 <img src="images/image19.png" width=400><img src="images/image20.png" width=400 height=285>
 
--What is the Longest Number of Years a Specific Fox has been Recorded?
+- What is the Longest Number of Years a Specific Fox has been Recorded?
   - Three foxes were recorded for six years. (The longest number of years)
   - 73 foxes were recorded for two years. (The average number of years)
   - 44 foxes were recorded for only one year. (The smallest number of years)
@@ -90,8 +90,21 @@ The primary goal of this project is to investigate the influence of climate chan
 <img src="images/image22.png" width=400>
   
 
+- Bylot Island during Winter (March 2012) vs Bylot Island during Summer (July 2012)
+  
+<img src="images/image25.jpeg" width=400><img src="images/image24.jpeg" width=400>
+  - During the summer months, Arctic foxes collect a surplus of food and carry it back to their dens to bury and store.*
+  - During winter, Arctic foxes do sometimes move to other regions when and if the population of their prey reduces or fluctuates in the winter.
 
+-  Movement of Foxes in Winter vs Summer over the Years
 
+<img src="images/Picture3.png" width=800>
+
+  - Winter Months: November, December, January, and February
+    - Foxes migrating through coastal areas and sea ice looking for their main food, lemmings, or alternate marine food. We can see that locations are spread-out, which means foxes travel further from their local territory during winter.
+  
+  - Summer Months : June, July, August, and September
+    - Almost all foxes are on the land, and fewer are on sea ice during summer. We see many clusters (red circles), and not as many foxes are spread-out, which likely means that foxes stay in dens during summer.
 
 
 ## Reflections
