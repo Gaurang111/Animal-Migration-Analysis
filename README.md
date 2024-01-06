@@ -75,6 +75,24 @@ The primary goal of this project is to investigate the influence of climate chan
 
 <img src="images/image19.png" width=400><img src="images/image20.png" width=400 height=285>
 
+-What is the Longest Number of Years a Specific Fox has been Recorded?
+  - Three foxes were recorded for six years. (The longest number of years)
+  - 73 foxes were recorded for two years. (The average number of years)
+  - 44 foxes were recorded for only one year. (The smallest number of years)
+
+<img src="images/image21.png" width=800>
+
+- What is the Number of Foxes Tracked Every Year?
+  - The maximum number of foxes being tracked in the year 2011, and the least number in 2021.
+  - If we look closely, this graph is correlated to the year-wise data distribution of records graph.
+  - As number of foxes increases, number of data points increases.
+
+<img src="images/image22.png" width=400>
+  
+
+
+
+
 
 ## Reflections
 
