@@ -74,7 +74,7 @@ The primary goal of this project is to investigate the influence of climate chan
   - **Smallest:** 2007, 2018, and 2021 have the lowest number of records at <1000.
 
 <img src="images/image19.png" width=400><img src="images/image20.png" width=400 height=285>
-
+---
 - What is the Longest Number of Years a Specific Fox has been Recorded?
   - Three foxes were recorded for six years. (The longest number of years)
   - 73 foxes were recorded for two years. (The average number of years)
@@ -82,20 +82,23 @@ The primary goal of this project is to investigate the influence of climate chan
 
 <img src="images/image21.png" width=800>
 
+---
+
 - What is the Number of Foxes Tracked Every Year?
   - The maximum number of foxes being tracked in the year 2011, and the least number in 2021.
   - If we look closely, this graph is correlated to the year-wise data distribution of records graph.
   - As number of foxes increases, number of data points increases.
 
 <img src="images/image22.png" width=400>
-  
+
+---  
 
 - Bylot Island during Winter (March 2012) vs Bylot Island during Summer (July 2012)
   
 <img src="images/image25.jpeg" width=400><img src="images/image24.jpeg" width=400>
   - During the summer months, Arctic foxes collect a surplus of food and carry it back to their dens to bury and store.*
   - During winter, Arctic foxes do sometimes move to other regions when and if the population of their prey reduces or fluctuates in the winter.
-
+---
 -  Movement of Foxes in Winter vs Summer over the Years
 
 <img src="images/Picture3.png" width=800>
@@ -105,6 +108,21 @@ The primary goal of this project is to investigate the influence of climate chan
   
   - Summer Months : June, July, August, and September
     - Almost all foxes are on the land, and fewer are on sea ice during summer. We see many clusters (red circles), and not as many foxes are spread-out, which likely means that foxes stay in dens during summer.
+---
+- Distribution Plot to Identify Home/Local Territory and Other Hotspots
+
+<img src="images/image28.png" width=400>
+
+  - We can identify the local territory and other hotspots where foxes reside using Joint plot.
+  - In given joint plot, x-axis and y-axis are longitude and latitude distribution, Respectively.
+  - From graph we can say that most foxes have been recorder near –80° longitude coordinates and near 73° latitude coordinates.
+  - Therefore, It is safe to say that outer line around the dense dot is their local territory.
+  - Also, we can see few circles at lower latitude, those are some hotspots formed when many foxes started moving towards south-east after 2015.
+
+---
+
+[View interactive map](path/to/your/file.html)
+
 
 
 ## Reflections
