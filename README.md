@@ -151,8 +151,29 @@ The primary goal of this project is to investigate the influence of climate chan
 
 ## References
 
-[Link to Bowdoin College](https://courses.bowdoin.edu/gov-2577-spring-2021-managing-the-effects-of-climate-change/arctic-issues-and-policy-ideas/kiera-dent/)
+1. Bowdoin College. (2021). Arctic Foxes in a Changing Environment. Managing the Effects of Climate Change. Retrieved November 27, 2022, from [Bowdoin College](https://courses.bowdoin.edu/gov-2577-spring-2021-managing-the-effects-of-climate-change/arctic-issues-and-policy-ideas/kiera-dent/)
 
-[Link to Canada Daily Climate Data](https://climate-change.canada.ca/climate-data/#/daily-climate-data)
+2. Canada. Daily Climate Data. Retrieved November 18, 2022, from [Canadian Climate Data](https://climate-change.canada.ca/climate-data/#/daily-climate-data)
 
-[Link to Kaggle Dataset - Eighty Years of Canadian Climate Data](https://www.kaggle.com/datasets/aturner374/eighty-years-of-canadian-climate-data)
+3. Domine, F., Gauthier, G., Vionnet, V., Fauteux, D., Dumont, M., & Barrere, M. (2018). Snow physical properties may be a significant determinant of lemming population dynamics in the High Arctic. Arctic Science, 4(4), 813–826. [https://doi.org/10.1139/as-2018-0008](https://doi.org/10.1139/as-2018-0008)
+
+4. Fauteux, D. (2015, May 5). Seasonal demography of a cyclic lemming population in the Canadian Arctic. Retrieved November 26, 2022, from [Wiley Online Library](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.12385)
+
+5. Horobin, A. (2022, August 24). Cute But Tough - The Arctic Fox. Yukon Wildlife Preserve. Retrieved November 15, 2022, from [Yukon Wildlife Preserve](https://yukonwildlife.ca/wildlife/arctic-fox/2020-05-cute-but-tough-arctic-fox/)
+
+6. Gauthier, G. (n.d.). Lemming monitoring on Bylot Island, Nunavut, Canada. Nordicana D. Retrieved November 25, 2022, from [Nordicana D](https://nordicana.cen.ulaval.ca/dpage.aspx?doi=45400AW-9891BD76704C4CE2)
+
+7. Kramer, S. (2016, March 22). The myth that lemmings commit mass suicide has a disturbing backstory. Retrieved November 25, 2022, from [Business Insider](https://www.businessinsider.com/lemmings-dont-commit-suicide-off-cliffs-2016-2)
+
+8. Lai, S., Bêty, J., & Berteaux, D. (2016). Movement tactics of a mobile predator in a meta-ecosystem with fluctuating resources: The arctic fox in the High Arctic. Oikos, 126(7), 937–947. [https://doi.org/10.1111/oik.03948](https://doi.org/10.1111/oik.03948)
+
+9. Top 10 Facts About Arctic Foxes. WWF. Retrieved November 17, 2022, from [WWF](https://www.wwf.org.uk/learn/fascinating-facts/arctic-fox)
+
+10. Turner, A. (2020, January 27). Eighty Years of Canadian Climate Data. Kaggle. Retrieved November 18, 2022, from [Kaggle Dataset](https://www.kaggle.com/datasets/aturner374/eighty-years-of-canadian-climate-data)
+
+11. Voosen, P. (2021, December 14). The Arctic is warming four times faster than the rest of the world. Science. Retrieved November 16, 2022, from [Science](https://www.science.org/content/article/arctic-warming-four-times-faster-rest-world)
+
+12. Washington State Governor's Salmon Recovery Office. Warming Temperatures Are Impacting Salmon Streams. Retrieved November 27, 2022, from [Salmon Recovery Office](https://stateofsalmon.wa.gov/executive-summary/challenges/climate/)
+
+13. Zufelt, K. (1970, January 1). Larusology. November 2010. Retrieved November 15, 2022, from [Larusology](http://larusology.blogspot.com/2010_11_01_archive.html)
+
