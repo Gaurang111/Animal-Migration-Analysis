@@ -38,16 +38,24 @@ The primary goal of this project is to investigate the influence of climate chan
 - **Trend:** Statistically significant decrease in summer sea ice area (1968-2020) for all sub-regions.
 - **Impact:** Affects Indigenous communities, travel, and animal habitats.
 
+<img src="images/image12.png" width=800>
+<img src="images/image13.gif" width=400>
+
 #### Temperature
 
 - **Observation:** The Arctic is warming four times faster than the global average.
 - **Data:** Shows a gradual temperature increase with fluctuations.
 - **Impact:** Even small temperature increases are detrimental to the environment.
 
+<img src="images/image14.png" width=400>
+
 #### Food Insecurity
 
-- **Impact:** Lemming populations affected by climate change, impacting the Arctic fox's food source.
+- **Impact:** Lemming(Main Food Source of Arctic Foxes) populations affected by climate change, impacting the Arctic fox's food source.
 - **Data:** Bar graph of lemming nests recorded in Bylot Island (2007-2019).
+
+<img src="images/image15.png" width=400>
+
 
 ## Migration Visualization
 
