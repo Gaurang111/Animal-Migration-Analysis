@@ -20,6 +20,8 @@ The primary goal of this project is to investigate the influence of climate chan
 - **Behavior:** Seasonal migrant, with a tendency to stay local around Bylot Island
 - **Predator:** Lemmings, hares, birds, fish, etc.
 
+<img src="images/Picture1.png" width=400  ><img src="images/image23.png" width=400 height=350>
+
 ### Climate Data
 
 #### Factor 1: CO2 Emissions
@@ -27,6 +29,8 @@ The primary goal of this project is to investigate the influence of climate chan
 - Analyzed CO2 and greenhouse gas data.
 - Greenland and Canada both experienced a decrease in CO2 levels.
 - Suggests a potential correlation with animal migration.
+
+<img src="images/image8.png" width=400><img src="images/image9.png" width=400>
 
 #### Sea Ice Area Data
 
