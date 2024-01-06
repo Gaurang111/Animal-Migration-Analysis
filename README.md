@@ -121,9 +121,15 @@ The primary goal of this project is to investigate the influence of climate chan
 
 ---
 
-[View interactive map](path/to/your/file.html)
+### Interactive Map to Analyze the Movement of Foxes over the Years
+  -   Based on their three movement types identified:
+      - Resident – foxes remain in their territories with possible commuting trips.
+      - Loop Migrant - foxes leave for a least one loop migration and return to their territory
+      - Nomad Migrant - foxes leave and do not return to their territory before summer starts or die while undertaking a nomadic movement 
 
+[View interactive map](Visualizations/mapplot.html)
 
+---
 
 ## Reflections
 
